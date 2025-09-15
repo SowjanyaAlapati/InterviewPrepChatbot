@@ -9,4 +9,12 @@ An **AI-powered interview simulator** that helps users practice common interview
 - **Sentiment Check**: Flags negative or neutral tone.
 - **Interactive Web App**: Built with Streamlit for an easy, browser-based experience.
 
-## 🗂 Project Structure
+## Screenshots
+![Home Page](images/home.png)
+![Categories](images/categories.png)
+![Question1](images/question1.png)
+![Question2](images/question2e.png)
+![Score](images/score.png)
+
+
+
